@@ -17,3 +17,8 @@ Program to Calculate Structural Properties of Amorphous Materials
  *             bad.dat <-  bond-angle districution;
  *             CN.dat  <-  coordination number 
  * *******************************************************************************  
+
+
+<p align="center">
+  <img scr="gr.png" width="350">
+</p>
