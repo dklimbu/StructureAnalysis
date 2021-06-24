@@ -18,7 +18,7 @@ Program to Calculate Structural Properties of Amorphous Materials
  *             CN.dat  <-  coordination number 
  * *******************************************************************************  
 
-![gr plot](gr.png)
-
-![bad plot](bad.png)
-
+<p>
+  <img src="gr.png" width="400" height="300" align=left>
+  <img src="bad.png" width="400" height="300" align=left>
+</p>
