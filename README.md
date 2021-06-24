@@ -6,7 +6,7 @@ Program to Calculate Structural Properties of Amorphous Materials
  *   a single XYZ file and calculates pair-correlation fuction (PCF)
  *   bond-angle distriution (BAD) and coordination number (CN)
  *
- *   DIL LIBU, USM
+ *   DIL LIMBU, USM
  *   APRIL 2018
  *
  *   COMPILE:: icc -o structure structure.cpp
