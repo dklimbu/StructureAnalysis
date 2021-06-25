@@ -1,11 +1,8 @@
 # StructureAnalysis
 Program to Calculate Structural Properties of Amorphous Materials
 * *******************************************************************************  
- *   Program to calculate structural properties of amorphous silicon
- *   The program reads a configuration of amorphous silicon model as 
- *   a single XYZ file and calculates pair-correlation function (PCF)
- *   bond-angle distriution (BAD) and coordination number (CN)
- *
+ *   Program to calculate structural properties of amorphous silicon. The program reads a configuration of amorphous silicon model as a single XYZ file and calculates pair-correlation function (PCF) bond-angle distriution (BAD) and coordination number (CN).
+ 
  *   DIL LIMBU, USM
  *   APRIL 2018
  
