@@ -1,6 +1,6 @@
 Program to calculate structural properties of amorphous silicon
 The program reads a configuration of amorphous silicon model as 
-a single XYZ file and calculates Rair-Correlation Function (PCF)
+a single XYZ file and calculates Pair-Correlation Function (PCF)
 Structure Factor (S(k)), Bond-Angle Distribution (BAD), and   
 generate Coordination Number (CN) and Nearest Neighor Map (NMAP)
 
