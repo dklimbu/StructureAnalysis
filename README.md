@@ -4,13 +4,13 @@ Program to Calculate Structural Properties of Amorphous Materials.
 This program calculates structural properties of amorphous silicon
 by reading a configuration of amorphous silicon model as 
 XYZ file and calculates Pair-Correlation Function (PCF)
-Structure Factor (S(k)), Bond-Angle Distribution (BAD), and   
+Structure Factor (S(k)), Bond-Angle Distribution (BAD), and 
 generate Coordination Number (CN) and Nearest Neighor Map (NMAP)
 
 * DIL LIMBU, USM
 * APRIL 2018
 
-* TO COMPILE:: Use Makefile provided
+* TO COMPILE:: Use Makefile provided in /src dir
 
 * USAGE:: ./structure.x INPUT.XYZ
 
