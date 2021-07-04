@@ -4,7 +4,7 @@ PAIR CORRELATION FUCNTION, g(r), CALCULATION
 
 DIL LIMBU, USM
 
-TO COMPILE:: mpiifort -O2 rdf2mpi.f90 -0 rdf2mpi
+TO COMPILE:: mpiifort -O2 rdf2mpi.f90 -o rdf2mpi
 
 TO RUN:: mpirun  -n  4  ./rdf2mpi  INPUT.XYZ rbin_width(~0.05)
 
